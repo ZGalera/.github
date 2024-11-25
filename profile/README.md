@@ -1,6 +1,6 @@
 <div align="center">
   
-  # ZGalera
+  # ⛵ ZGalera
   
   Organization of hard-working programmers 🥵
   
