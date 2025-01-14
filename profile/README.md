@@ -8,6 +8,4 @@
   > Organization of hard-working programmers
 
   <br>
-
-  [🧧 ***Try our new sticker pack*** 🧧](https://t.me/addstickers/ZGaleraStickers)
 </div>
