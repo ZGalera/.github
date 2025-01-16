@@ -6,6 +6,4 @@
   # ZGalera <img align="center" src="https://raw.githubusercontent.com/okineadev/okineadev/refs/heads/main/assets/ua-flag.png" height="35">
 
   > Organization of hard-working programmers
-
-  <br>
 </div>
